@@ -1,5 +1,5 @@
 document.body.innerHTML = `<div class="heading-container">
-<h1>COVID-19 Philippines country LIST</h1>
+<h1>COVID-19 Sri lanka country tracking LIST</h1>
 <img src="https://www.who.int/images/default-source/mca/mca-covid-19/coronavirus-2.tmb-1024v.jpg?Culture=en&sfvrsn=4dba955c_6" alt="brew" class="icon" width="150px" height="100px" />
 </div>
 <div id="mainContainer" class="table table bordered table-striped "></div>
